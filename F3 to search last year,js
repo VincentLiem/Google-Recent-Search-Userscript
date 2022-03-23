@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         F3 to search last year
 // @version      1.0
-// @description  search only recent yearon F3
+// @description  search only recent year on F3
 // @match        *www.google.com/search*
 // @exclude      *&source=lnt&tbs=qdr:y*
 // @run-at       document-start
