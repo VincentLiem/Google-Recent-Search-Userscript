@@ -3,7 +3,6 @@
 // @version      1.0
 // @description  search only recent year on F3
 // @match        *www.google.com/search*
-// @exclude      *&source=lnt&tbs=qdr:*
 // @run-at       document-start
 // ==/UserScript==
 
