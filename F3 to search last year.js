@@ -7,6 +7,13 @@
 // ==/UserScript==
 
 var currentUrl = window.location.href
-window.addEventListener('keydown', function (a) { if (a.which == 114) {
-window.location.replace(currentUrl + '&source=lnt&tbs=qdr:y');
-}})
+window.addEventListener
+  (
+  'keydown', function (a) 
+   { 
+    if (a.which == 114)
+    {
+      window.location.replace(currentUrl + '&source=lnt&tbs=qdr:y');
+    }
+   }
+  )
